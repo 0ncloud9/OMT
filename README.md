@@ -23,9 +23,9 @@ In the table, click "Delete" next to a country to remove it from the list.
 4.Sort Medal List:
 Use the dropdown in the sort section to choose sorting by Gold Medals or Total Medals.
 
-**Technologies Used**
+**Technologies Used**<br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-: For component-based UI development and state management.
+: For component-based UI development and state management.<br>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-: For logic and event handling.
+: For logic and event handling.<br>
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">: For styling the application.
