@@ -1,4 +1,4 @@
-**#Olympic Medal Tracker**
+**#Olympic Medal Tracker** <br>
 This application is a simple React-based app to manage and display medals won by different countries. Users can add, update, delete, and sort the medal counts of various countries, making it a flexible tool for tracking and organizing medal standings.
 
 **Features**<br>
